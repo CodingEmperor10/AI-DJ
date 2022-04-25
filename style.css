@@ -1,0 +1,51 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{ 
+font-size: larger;
+color: white;
+margin: 0px;
+}
+
+.note
+{
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.speed
+{
+    float:left;
+}
+
+.disk_speed, .disk_volume
+{
+  width: 200px;  
+  border-radius: 100px;
+}
+
+#danger_speed, #danger_volume
+{
+    font-size: 30px;
+    margin: 15px;
+}
+
+.volume
+{
+    float: right;
+}
+
+.play_button
+{
+width: 100px;    
+font-size: 40px;
+}
+
+canvas
+{
+border-radius: 55px;    
+margin-top: 90px;
+}
